@@ -103,9 +103,5 @@ Publish the website in the given URL.
 ![karcal](https://user-images.githubusercontent.com/118708040/214774287-83a4706f-f0fc-4fdd-b7b2-0f4f5fbe39d9.png)
 
 
-## HTML VALIDATOR:
-
-![calval](https://user-images.githubusercontent.com/118708040/214774320-944a6011-e7f9-411f-98a4-53451ac48780.png)
-
 ## RESULT:
 Thus a web application for standard calculator is designed.
